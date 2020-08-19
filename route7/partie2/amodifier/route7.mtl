@@ -1,0 +1,78 @@
+newmtl wcliff_lm36
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd wcliff_lm36.png
+map_d wcliff_lm36.png
+newmtl ngrass_lm23
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd ngrass_lm23.png
+map_d ngrass_lm23.png
+newmtl allpeak_lm20
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd allpeak_lm20.png
+map_d allpeak_lm20.png
+newmtl criff_lm38
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd criff_lm38.png
+map_d criff_lm38.png
+newmtl criffp_lm35
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd criffp_lm35.png
+map_d criffp_lm35.png
+newmtl file1Material
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd file1Material.png
+map_d file1Material.png
+newmtl hanger_lm4
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd hanger_lm4.png
+map_d hanger_lm4.png
+newmtl newstep_lm14
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd newstep_lm14.png
+map_d newstep_lm14.png
+newmtl ckado_lm8
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd ckado_lm8.png
+map_d ckado_lm8.png
+newmtl shadowchip_lm2
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 0.3871
+map_Kd shadowchip_lm2.png
+map_d shadowchip_lm2.png
+newmtl imped_lm1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd imped_lm1.png
+map_d imped_lm1.png
+newmtl bridge_lm1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd bridge_lm1.png
+map_d bridge_lm1.png
+newmtl dhole_lm10
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd dhole_lm10.png
+map_d dhole_lm10.png
